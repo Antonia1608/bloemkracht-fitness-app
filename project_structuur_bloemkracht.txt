@@ -1,0 +1,31 @@
+bloemkracht-fitness-app/
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│   └── assets/
+│       ├── icons/
+│       └── images/
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── components/
+│   │   ├── SessionCard.js
+│   │   ├── ActiveSession.js
+│   │   ├── ProgressMandala.js
+│   │   └── Navigation.js
+│   ├── screens/
+│   │   ├── HomeScreen.js
+│   │   ├── ExercisesScreen.js
+│   │   ├── ProgressScreen.js
+│   │   └── WisdomScreen.js
+│   ├── data/
+│   │   ├── exercises.js
+│   │   ├── sessions.js
+│   │   └── motivationalQuotes.js
+│   ├── styles/
+│   │   └── theme.js
+│   └── utils/
+│       ├── timer.js
+│       └── progressTracker.js
+├── package.json
+└── README.md
